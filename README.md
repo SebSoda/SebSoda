@@ -6,6 +6,7 @@
 
   <!-- Texto animado con tipografía geométrica moderna (Comfortaa) -->
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&color=00F0FF&size=30&center=true&vCenter=true&width=600&height=80&lines=GO;PYTHON;JAVA;C%2B%2B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chelsea+Market&size=30&pause=1000&color=2264F7&width=435&lines=GO" alt="Typing SVG" /></a>
 </div>
 
 <br />

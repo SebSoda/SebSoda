@@ -25,7 +25,7 @@
   </a>
 
 </div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:142834&reversal=true" alt="Wave footer" />
 <br />
 
 ---

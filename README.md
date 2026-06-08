@@ -18,7 +18,6 @@
   ### 🛠️ Core Technology Stack
   
   <br />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:142834&reversal=true" alt="Wave header" />
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,python,java,cpp,postgres,docker,git,github,vscode,linux" alt="Tech Stack" />

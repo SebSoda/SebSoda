@@ -1,44 +1,48 @@
-# ¡Hola! Soy un Desarrollador de Software enfocado en la Integración de Sistemas y Hardware 🚀
+<!-- HEADER ANIMADO: Componente vectorial en movimiento -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&height=50&lines=SOFTWARE+ENGINEER;AUTOMATION+%26+SYSTEMS;BACKEND+DEVELOPMENT" alt="Typing SVG" />
+</p>
 
-Desarrollador Backend/Frontend, Analista de Sistemas y Modelador de Datos. Como estudiante de último año de **Ingeniería en Informática**, combino el diseño de software eficiente con un profundo entendimiento de la arquitectura física y los sistemas distribuidos.
-
----
-
-### 🛠️ Áreas de Especialización & Competencias
-
-- **Desarrollo de Software Integrado:** Arquitectura limpia y lógica de backend robusta utilizando Go y Python, orientada a la eficiencia y el alto rendimiento.
-- **Modelado de Datos & Arquitectura:** Diseño, optimización y gestión de bases de datos relacionales y distribuidas (SQL, Cassandra). Capacidad para estructurar lógica compleja en entornos con alta disponibilidad y resiliencia offline.
-- **Hardware & Electrónica Digital:** Diagnóstico fino a nivel de componentes, reparación de placas lógicas, ensamblaje y mantenimiento optimizado de hardware analógico y digital (PCs de escritorio y laptops).
-- **Metodologías de Ingeniería:** Aplicación rigurosa de metodologías para el ciclo de vida del desarrollo de software (SDLC) y diseño arquitectónico.
+<p align="center">
+  <a href="#-core-stack">Core Stack</a> • 
+  <a href="#-infrastructure--tools">Infrastructure</a> • 
+  <a href="#-architecture--featured-projects">Featured Projects</a>
+</p>
 
 ---
 
-### 🧰 Stack Tecnológico
+### 🛠️ Core Stack
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes de Programación** | `Python` • `Go` • `JavaScript` • `HTML5 / CSS3` |
-| **Bases de Datos & Almacenamiento** | `PostgreSQL` • `MySQL` • `Apache Cassandra` |
-| **Especialidades de Hardware** | `Electrónica Básica/Digital` • `Diagnóstico de Circuitos` • `Mantenimiento de Sistemas` |
-| **Herramientas & Entornos** | `Git / GitHub` • `Linux (OS Optimization)` • `Docker` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Frameworks / Libraries** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+
+### ⚙️ Infrastructure & Tools
+
+| Área | Herramientas |
+| :--- | :--- |
+| **DevOps & OS** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **CI/CD & Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
 
-### 📊 En lo que estoy trabajando / Proyectos Destacados
+### 🚀 Architecture & Featured Projects
 
-*📌 **Tip profesional:** Agrega aquí enlaces a tus mejores proyectos públicos. Por ejemplo:*
-*   **[Sistema de Automatización / Bot con Python]:** Implementación de lógica compleja y manejo de datos estructurados para flujos automatizados de información.
-*   **[Aplicaciones en Go]:** Desarrollo backend eficiente priorizando concurrencia, bajo consumo de recursos y estabilidad del sistema.
-*   **[Proyectos de Modelado de Datos]:** Casos prácticos de diseño de esquemas e infraestructura en bases de datos relacionales y no relacionales.
+#### 📂 [Nombre-del-Repositorio-Principal](https://github.com/tu-usuario/repositorio)
+> *Sistema automatizado de alta concurrencia orientado a [propósito del sistema].*
+*   **Architecture:** Clean Architecture / Event-Driven.
+*   **Specs:** Implementación de pipelines de CI/CD automatizados, cobertura de pruebas unitarias >90%, integración nativa con APIs RESTful.
+*   **Stack:** Python, Docker, GitHub Actions.
+
+#### 📂 [Nombre-del-Repositorio-Secundario](https://github.com/tu-usuario/repositorio2)
+> *Librería de automatización y optimización de flujos de trabajo locales.*
+*   **Architecture:** Modular / Microservices-ready.
+*   **Specs:** Optimización de llamadas de red, persistencia de datos relacionales y concurrencia optimizada a nivel de sistema operativo.
+*   **Stack:** Go, SQL, Linux.
 
 ---
 
-### 🗣️ Idiomas y Documentación Técnica
-- **Español:** Nativo.
-- **Inglés:** Competencia intermedia-avanzada enfocada a la lectura fluida de documentación técnica, especificaciones de hardware, APIs y resolución autónoma de problemas de ingeniería.
-
----
-
-### 🤝 Conectemos
-- **GitHub:** [github.com/SebSoda](https://github.com/SebSoda)
-- **LinkedIn:** [Inserta tu enlace aquí]
+### ⚡ Technical Workflow Standards
+*   **Git Workflow:** Estricta adherencia a *Conventional Commits* (`feat:`, `fix:`, `docs:`, `refactor:`).
+*   **CI/CD:** Automatización de Linters, Type-Checking y Test Suites en cada Pull Request.

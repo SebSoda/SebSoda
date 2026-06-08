@@ -5,7 +5,7 @@
   <br />
 
   <!-- Texto animado con tipografía geométrica moderna (Comfortaa) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&color=00F0FF&size=30&center=true&vCenter=true&width=600&height=80&lines=Bienvenido!;Soy Sebastian;Bienvenido a algunos de mis proyectos;:);C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&color=00F0FF&size=30&center=true&vCenter=true&width=600&height=80&lines=Bienvenido!;Soy Sebastian;Bienvenido a algunos de mis proyectos;C%2B%2B" alt="Typing SVG" />
 
 <br />
 

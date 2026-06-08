@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ### 🛠️ Core Technology Stack
+  ### Herramientas de desarrollo utilizadas:
   
   <br />
 
